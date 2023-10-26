@@ -1,0 +1,76 @@
+header {
+    text-align: center;
+    color: #c90bc2;
+}
+.box {
+    width: 300px;
+    margin: 0 auto;
+
+}
+#city {
+    width: 218px;
+}
+#default {
+    width: 70px;
+
+}
+.btnStyle {
+    background-color: #c90bc2;
+    height: 35px;
+    border: none;
+    color: white;
+}
+.btnStyle>a {
+    color: white;
+    text-decoration: none;
+}
+form>div {
+    margin: 10px 0;
+}
+label {
+    font-size: 20px;
+}
+.box input {
+    height: 30px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.box select {
+    width: 300px;
+    height: 30px;
+}
+.time>input {
+    width: 80px !important;
+}
+.time>span {
+    margin-right: 10px;
+}
+.btns {
+    display: flex;
+    justify-content: space-between;
+}
+.info {
+    text-align: center;
+    color: #c90bc2;
+    display: none;
+}
+#clear {
+    color: white;
+    background-color: #c90bc2;
+    border: none;
+    padding: 10px;
+    float: right;
+}
+td,
+th {
+    border: 1px solid lightgray;
+}
+.saveBtn {
+    border: none;
+    background-color: #c90bc2;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    float: right;
+    margin: 40px;
+}
